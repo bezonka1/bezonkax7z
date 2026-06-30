@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,45:7c3aed,100:06b6d4&text=bezonka%20%7C%20bezonkax7z&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=42&desc=AI%20Builder%20%E2%80%A2%20Full-stack%20Creator%20%E2%80%A2%20Security-minded%20Dev&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" />
 
