@@ -91,18 +91,18 @@ Soy **bezonka** / **bezonkax7z** — developer enfocado en crear productos digit
 <div align="center">
 
 <a href="https://github.com/bezonkax7z">
-  <img src="https://img.shields.io/badge/GitHub-bezonkax7z-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/Anthxkp">
-  <img src="https://img.shields.io/badge/Instagram-Anthxkp-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.tiktok.com/@bezonka1">
-  <img src="https://img.shields.io/badge/TikTok-bezonka1-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 <a href="https://www.youtube.com/@bezonka">
-  <img src="https://img.shields.io/badge/YouTube-bezonka-000000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/-YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/Discord-.bezonka.-000000?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=white" />
 
 </div>
 
